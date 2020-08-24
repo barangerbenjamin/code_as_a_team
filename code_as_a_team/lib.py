@@ -54,4 +54,4 @@ if __name__ == '__main__':
     folder_source, _ = split(code_as_a_team.__file__)
     df = pd.read_csv('{}/data/data.csv.gz'.format(folder_source))
     clean_data = clean_data(df)
-    print('Welcome')
+    print('Coucou')
