@@ -1,0 +1,3 @@
+graft code_as_a_team
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  code_as_a_team/jupy *
